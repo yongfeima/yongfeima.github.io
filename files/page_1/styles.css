@@ -46,3 +46,13 @@
   text-transform:none;
   visibility:hidden;
 }
+#u1 {
+  border-width:0px;
+  position:absolute;
+  left:743px;
+  top:205px;
+  width:310px;
+  height:128px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

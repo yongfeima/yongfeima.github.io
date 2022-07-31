@@ -10,7 +10,14 @@
   line-height:normal;
   text-transform:none;
 }
+.box_2 {
+}
 .image {
+}
+.button {
+}
+.link_button {
+  color:#169BD5;
 }
 .heading_1 {
   font-family:'Arial Normal', 'Arial', sans-serif;
